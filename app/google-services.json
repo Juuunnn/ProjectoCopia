@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827054600830",
+    "project_id": "buscamiondb",
+    "storage_bucket": "buscamiondb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827054600830:android:024e17f52020c02e575e2f",
+        "android_client_info": {
+          "package_name": "com.example.ProjectoCopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827054600830-bsoh32o0pe3hb9onfsbbck681tnteta1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ProjectoCopia",
+            "certificate_hash": "86fe4e2019c195e31eb43371518bb03583711967"
+          }
+        },
+        {
+          "client_id": "827054600830-sslaua99n03558ctifagnivnee6304bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgz1eX692c-caCTDKi1k9yiEcEi2krlzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827054600830-sslaua99n03558ctifagnivnee6304bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
